@@ -1,2 +1,6 @@
 # ZPUITableViewController
 介绍如何利用UITableViewController来构建列表。
+
+视频路径：小马哥视频2015年（没加密版）——>02-UITableView——>0603自定义等高——>视频——>04-uitableviewcontroller_.mkv、05-cell的循环利用03_.mkv、06-常见属性设置01_.mkv、07-常见设置02_.mkv。
+
+此Demo介绍了如何利用UITableViewController来构建列表；介绍了UITableView控件的separatorColor（分割线颜色）属性以及怎样去掉分割线；介绍了如何利用UITableViewCell的accessoryType和accessoryView属性来设置cell右端的附加视图；介绍了如何利用UITableViewCell的backgroundView和backgroundColor属性设置正常状态下的cell的背景颜色和背景图片以及这两个属性的区别；介绍了如何利用UITableViewCell的selectedBackgroundView属性来设置选中状态下的cell的背景颜色和背景图片；介绍了如何在用户点击cell的时候去掉点击动画。
